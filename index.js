@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to MineWord"];
+const statusMessages = ["Играет в mc.MineWord.pw"];
 
 
 let currentIndex = 0;
